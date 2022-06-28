@@ -19,7 +19,7 @@ import retrofit2.http.POST;
 
 public class HttpConnection {
     private final String TAG = HttpConnection.class.getSimpleName();
-    private final String base_url = "http://115.145.175.57:10099";
+    private final String base_url = "http://xxxx";
 
     private LoginListener mLoginListener;
     private GetMazeListener mGetMazeListener;
