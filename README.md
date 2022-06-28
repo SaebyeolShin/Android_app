@@ -8,11 +8,11 @@
 - Gray/Yellow/Green letter list must be shown
 
 ### Functionalities
-- Wordle
+#### Wordle
   - On app exectution, generate a random answer
   - Among given five-letters words dictionary
 
-- Guess
+#### Guess
   - If user type word, and press SUBMIT button, 
   - Check if it is in the dictionary 
     - if not show toast : "Word '<User_input>' not in dictionary"
