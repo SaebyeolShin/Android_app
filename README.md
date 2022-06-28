@@ -27,7 +27,34 @@
 ### Demo
 <img src="./img/pa1.gif" width="40%" height="40%"/>
 
-## Project 2 - Maze
+## Project 2 - The Maze Runner
+
+### Escape the maze using Arrow keys
+
+#### Sign in Activity
+- This activity check input user name is valid or not using networking with server.
+
+#### Maze Selection Activity
+- This activity show the possible maze list
+- At the start of activity, send GET request to server to get list of mazes
+
+#### Maze Activity
+- This activity show the selected square maze
+- If user click (up, down, left, right) button, user character will move each direction.
+- After move, user character must look in the move direction.
+- User character can't pass through the wall.
+
+#### Turn
+- For every movement, increase the number(turn)
+- Don't increase turn number if the character can't move because of the wall
+
+#### Hint
+- If you click hint button, calculate the shortest path to goal point, and make a dot at the next position in the path.
+- When you pass that position the red dot disappears.
+- Hint button works only 1 time at each challenge.
+
+#### Arrival
+- If character arrives at goal position, show toast message, shortly "Finish"
 
 ### Demo
 <img src="./img/pa2.gif" width="40%" height="40%"/>
