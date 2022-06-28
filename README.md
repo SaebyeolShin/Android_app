@@ -27,6 +27,7 @@
 ### Demo
 <img src="./img/pa1.gif" width="50%" height="50%"/>
 
+<br/><br/>
 
 ## Project 2 - The Maze Runner
 
@@ -60,6 +61,7 @@
 ### Demo
 <img src="./img/pa2.gif" width="50%" height="50%"/>
 
+<br/><br/>
 
 ## Project 3 - Harry Potter Shooter game
 <img src="./img/pa3.gif" width="50%" height="50%"/>
