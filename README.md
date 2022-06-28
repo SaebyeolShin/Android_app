@@ -27,6 +27,7 @@
 ### Demo
 <img src="./img/pa1.gif" width="50%" height="50%"/>
 
+
 ## Project 2 - The Maze Runner
 
 ### Escape the maze using Arrow keys
