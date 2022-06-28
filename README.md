@@ -1,8 +1,17 @@
 # Android_app
 
-## Project 1 - Wordle
+## Project 1 - Wordle application
 
 - Guess five-letters English word (https://www.nytimes.com/games/wordle/index.html)
+- User can only guess with a valid word
+- Guess list must be shown
+- Gray/Yellow/Green letter list must be shown
 
-<img src="./img/pa1.gif" width="30%" height="30%"/>
-<!-- ![ex_screenshot](./img/pa1.gif) -->
+### Functionalities
++ Wordle
+++ On app exectution, generate a random answer
+++ Among given five-letters words dictionary
+
++ Guess
+
+<img src="./img/pa1.gif" width="45%" height="45%"/>
