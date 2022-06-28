@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pa3</string>
+    <string name="login_register">REGISTER</string>
+    <string name="login_login">LOGIN</string>
+    <string name="ed_id_hint">ID를 입력해 주세요.</string>
+    <string name="ed_ps_hint">Password를 입력해 주세요.</string>
+    <string name="ex_success">success?</string>
+    <string name="login_fail">No user information, register!</string>
+    <string name="register_fail">User information already existing!!</string>
+</resources>
