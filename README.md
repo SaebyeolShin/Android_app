@@ -28,3 +28,6 @@
 <img src="./img/pa1.gif" width="40%" height="40%"/>
 
 ## Project 2 - Maze
+
+### Demo
+<img src="./img/pa2.gif" width="40%" height="40%"/>
