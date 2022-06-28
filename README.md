@@ -25,7 +25,7 @@
 - Set the text to guessed word's letter.
 
 ### Demo
-<img src="./img/pa1.gif" width="40%" height="40%"/>
+<img src="./img/pa1.gif" width="50%" height="50%"/>
 
 ## Project 2 - The Maze Runner
 
@@ -57,4 +57,8 @@
 - If character arrives at goal position, show toast message, shortly "Finish"
 
 ### Demo
-<img src="./img/pa2.gif" width="40%" height="40%"/>
+<img src="./img/pa2.gif" width="50%" height="50%"/>
+
+
+## Project 3 - Harry Potter Shooter game
+<img src="./img/pa3.gif" width="50%" height="50%"/>
