@@ -1,6 +1,4 @@
-# Android_app
-
-## Project 1 - Wordle application
+# Project 1 - Wordle application
 
 ### Guess five-letters English word (https://www.nytimes.com/games/wordle/index.html)
 - User can only guess with a valid word
@@ -26,3 +24,5 @@
 
 ## Demo
 <img src="./img/pa1.gif" width="45%" height="45%"/>
+
+# Project 2 - Maze
