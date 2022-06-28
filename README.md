@@ -46,6 +46,8 @@
 - After move, user character must look in the move direction.
 - User character can't pass through the wall.
 
+---
+
 #### Turn
 - For every movement, increase the number(turn)
 - Don't increase turn number if the character can't move because of the wall
