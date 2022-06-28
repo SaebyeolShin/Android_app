@@ -25,6 +25,6 @@
 - Set the text to guessed word's letter.
 
 ### Demo
-<img src="./img/pa1.gif" width="45%" height="45%"/>
+<img src="./img/pa1.gif" width="40%" height="40%"/>
 
 ## Project 2 - Maze
