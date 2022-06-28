@@ -28,7 +28,7 @@ public class HttpConnection {
         RequestBody body = RequestBody.create(jData.toString(),JSON);
 
         Request request = new Request.Builder()
-                .url("https://g8vj3djoq1.execute-api.ap-northeast-2.amazonaws.com/dev/"+lastUrl)
+                .url("https://xxxxxuser.amazonaws.com/dev/"+lastUrl)
                 .post(body)
                 .build();
         client.newCall(request).enqueue(callback);
