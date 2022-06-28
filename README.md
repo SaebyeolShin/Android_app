@@ -8,10 +8,10 @@
 - Gray/Yellow/Green letter list must be shown
 
 ### Functionalities
-+ Wordle
-++ On app exectution, generate a random answer
-++ Among given five-letters words dictionary
+- Wordle
+  - On app exectution, generate a random answer
+  - Among given five-letters words dictionary
 
-+ Guess
+- Guess
 
 <img src="./img/pa1.gif" width="45%" height="45%"/>
