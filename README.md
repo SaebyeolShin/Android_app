@@ -27,6 +27,8 @@
 ### Demo
 <img src="./img/pa1.gif" width="50%" height="50%"/>
 
+<br/><br/>
+
 ## Project 2 - The Maze Runner
 
 ### Escape the maze using Arrow keys
@@ -44,6 +46,8 @@
 - After move, user character must look in the move direction.
 - User character can't pass through the wall.
 
+---
+
 #### Turn
 - For every movement, increase the number(turn)
 - Don't increase turn number if the character can't move because of the wall
@@ -59,6 +63,7 @@
 ### Demo
 <img src="./img/pa2.gif" width="50%" height="50%"/>
 
+<br/><br/>
 
 ## Project 3 - Harry Potter Shooter game
 <img src="./img/pa3.gif" width="50%" height="50%"/>
